@@ -1,0 +1,5 @@
+package sample.spring.oneday;
+
+public class BookServiceImpl {
+
+}

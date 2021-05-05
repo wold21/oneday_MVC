@@ -1,0 +1,6 @@
+package sample.spring.oneday;
+
+@Controller
+public class BookContoroller {
+
+}
